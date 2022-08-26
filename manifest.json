@@ -1,6 +1,6 @@
 {
   "../node_modules/nuxt/dist/app/entry.mjs": {
-    "file": "_nuxt/entry.44d80140.mjs",
+    "file": "_nuxt/entry.f43e8e98.mjs",
     "src": "../node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
     "dynamicImports": [
@@ -9,7 +9,7 @@
     ]
   },
   "../virtual:nuxt:D:/Projects/online-king-game/.nuxt/error-component.mjs": {
-    "file": "_nuxt/error-component.11617283.mjs",
+    "file": "_nuxt/error-component.1988eb21.mjs",
     "src": "../virtual:nuxt:D:/Projects/online-king-game/.nuxt/error-component.mjs",
     "isDynamicEntry": true,
     "imports": [
@@ -21,7 +21,7 @@
     ]
   },
   "pages/index.vue": {
-    "file": "_nuxt/index.8fbada56.mjs",
+    "file": "_nuxt/index.a6c62eb8.mjs",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -29,7 +29,7 @@
     ]
   },
   "../node_modules/@nuxt/ui-templates/dist/templates/error-404.vue": {
-    "file": "_nuxt/error-404.f18d5a5e.mjs",
+    "file": "_nuxt/error-404.70456616.mjs",
     "src": "../node_modules/@nuxt/ui-templates/dist/templates/error-404.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -40,7 +40,7 @@
     ]
   },
   "../node_modules/@nuxt/ui-templates/dist/templates/error-500.vue": {
-    "file": "_nuxt/error-500.5740febc.mjs",
+    "file": "_nuxt/error-500.87925f45.mjs",
     "src": "../node_modules/@nuxt/ui-templates/dist/templates/error-500.vue",
     "isDynamicEntry": true,
     "imports": [
