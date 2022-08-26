@@ -26,6 +26,8 @@ const onShuffle = () => {
   }
   numbers.value = ns
 }
+
+const length = computed(() => others.value ? others.value.length : 0)
 </script>
 
 <template lang="pug">
@@ -56,6 +58,7 @@ div
         p.is-size-2.has-text-weight-bold 王様: {{ king }}
     section.section.py-3
       h2.title.is-4 3.命令を決める
+        | #[span(v-if="others") (1～{{ length }})]
       div
         p.mt-2 例：○番が△番に□□□
         p.mt-2.mb-2 例：○番が王様に□□□
