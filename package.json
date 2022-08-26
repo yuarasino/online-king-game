@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0",
+    "nuxt": "3.0.0-rc.8",
+    "pug": "^3.0.2",
+    "stylus": "^0.59.0"
+  }
+}
